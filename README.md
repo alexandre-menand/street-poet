@@ -1,6 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Street Poet
 
-Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
+Lisez des histoires et écrivez la vôtre dans un lieu public. Via un QrCode générer sur une instance Directus, les passants pouvez laisser des petits commentaires sur un espace public. 
+Ce projet était inspiré par 'le jardin des poètes' dans les marais de Bourges.
 
 ## Setup
 
