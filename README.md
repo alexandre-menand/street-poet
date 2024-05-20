@@ -5,6 +5,8 @@ Ce projet était inspiré par 'le jardin des poètes' dans les marais de Bourges
 
 Le projet est actuellement en pause, le serveur Directus (qui servait de Back-end) n'existe plus.
 
+Le front-end fonctionne avec une version RC de Nuxt 3.
+
 ## Setup
 
 Make sure to install the dependencies:
